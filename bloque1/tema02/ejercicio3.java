@@ -1,0 +1,11 @@
+package bloque1.tema02;
+
+public class ejercicio3 {
+    public static void main(String[] args) {
+        String direccion = "Paseo de la Estación, 33, 8º B";
+        String telefono = "+34 600 123 456";
+
+        System.out.println("Dirección: " + direccion);
+        System.out.println("Teléfono: " + telefono);
+    }
+}
