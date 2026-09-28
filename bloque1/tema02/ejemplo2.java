@@ -10,4 +10,4 @@ public class ejemplo2 {
         System.out.println("IVA (21%): " + iva);
         System.out.println("Total: " + total);
     }
-}<
+}
