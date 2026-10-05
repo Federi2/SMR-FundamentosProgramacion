@@ -2,10 +2,7 @@ package bloque1.tema02;
 
 public class ejercicio1 {
     public static void main(String[] args) {
-<<<<<<< HEAD
         
-=======
->>>>>>> eb8d84230b340375b0275592d4c234addb81549e
         double num1 = 12.0;
         double num2 = 4.0;
 
@@ -23,7 +20,3 @@ public class ejercicio1 {
         System.out.println("División: " + division);
     }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> eb8d84230b340375b0275592d4c234addb81549e
