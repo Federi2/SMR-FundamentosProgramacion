@@ -22,6 +22,6 @@ public class Ejercicio4 {
         }
 
         System.out.println("Porcentaje total de descuento: " + descuentoTotal + " %");
-    sc.close();
+        sc.close();
     }
 }
